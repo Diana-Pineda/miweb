@@ -1,0 +1,4 @@
+archivo nuevo status
+git status -s
+
+/ esta barra en el archivo ign significa que esta seleccionando una carpeta
